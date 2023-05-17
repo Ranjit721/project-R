@@ -1,0 +1,7 @@
+#{
+    margin: 0;
+    padding: 0;
+    @page {
+        size: 1in 2in;
+      }
+}
